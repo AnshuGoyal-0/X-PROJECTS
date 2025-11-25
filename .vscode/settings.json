@@ -1,0 +1,8 @@
+{
+    "notebook.consolidatedRunButton": true,
+    "notebook.diff.overviewRuler": true,
+    "notebook.formatOnSave.enabled": true,
+    "notebook.insertFinalNewline": true,
+    "notebook.output.scrolling": true,
+    "notebook.output.wordWrap": true
+}
